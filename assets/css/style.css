@@ -1465,7 +1465,7 @@ page loader
     border: 1px solid rgba(255,255,255,.3) !important;
 }
 #about{
-    background-color: rgb(225,58,37) !important;
+    background-color: #0095be !important;
 }
 
 .about-area {
@@ -1558,7 +1558,7 @@ page loader
 0.6 service-area start
 =====================================*/
 .service-area {
-    background: #202020;
+    background: #01baed;
     padding-bottom: 90px;
     border-top:1px solid rgba(255,255,255,.3);
 }
