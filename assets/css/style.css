@@ -1248,8 +1248,8 @@ button:focus {
 }
 
 .hero-style-1 .slide-subtitle h4{
-  font-size: 18px;
-  font-size: 1.2rem;
+  /*font-size: 22px;*/
+  font-size: 2rem;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 8px;
@@ -1275,7 +1275,7 @@ button:focus {
 
 
 .hero-style-1 .slide-title h2 {
-    font-size: 60px;
+    font-size: 72px;
     /*font-size: 4.66667rem;*/
     font-weight: bold;
     font-family: "Times New Roman", Times, serif;
