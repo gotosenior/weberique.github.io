@@ -1723,6 +1723,7 @@ page loader
   .gallery-section{
     padding-bottom: 100px;
     border-top:1px solid rgba(255,255,255,.3);
+    background-color: #029cc6;
   }
 
 @media (max-width: 991px) {
@@ -1969,6 +1970,7 @@ page loader
 .pricing-section {
   padding-bottom: 70px;
   border-top: 1px solid rgba(255,255,255,.3);
+  background-color: #016d8b;
 }
 
 @media (max-width: 991px) {
@@ -2131,6 +2133,7 @@ page loader
 .blog-section {
   padding-bottom: 90px;
   border-top:1px solid rgba(255,255,255,.3);
+  background-color: #00c8ff;
 }
 
 
@@ -2196,8 +2199,8 @@ page loader
 }
 
 .blog-section .grid .details h3 {
-  font-size: 22px;
-  font-size: 1.375rem;
+  font-size: 32px;
+  font-size: 2rem;
   line-height: 1.4em;
   margin: 0 0 0.7em;
   font-weight: 700;
@@ -2215,8 +2218,8 @@ page loader
 }
 
 .blog-section .details p {
-  font-size: 15px;
-  font-size: 0.9375rem;
+  font-size: 20px;
+  font-size: 1.25rem;
 }
 
 .blog-section .entry-meta {
@@ -2273,7 +2276,7 @@ page loader
 .contact-page-area{
   padding-top: 60px;
   border-top:1px solid rgba(255,255,255,.3);
-  background: #202020;
+  background: #014a5e;
 }
 .contact-page-area .contact-map {
     height: 450px;
@@ -2514,6 +2517,7 @@ border: 1px solid #666;
 .footer-area {
     padding: 40px 0 20px;
     border-top:1px solid rgba(255,255,255,.3);
+    background-color: #002e3a;
 }
 .footer-menu ul{
     justify-content:center;
